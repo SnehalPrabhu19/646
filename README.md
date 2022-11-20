@@ -1,5 +1,4 @@
-# MOVIE RECOMMENDATION SYSTEM BASED ON CONTEXTUAL
-USER INFORMATION
+# MOVIE RECOMMENDATION SYSTEM BASED ON CONTEXTUAL USER INFORMATION
 
 
 In our research project, we propose to build a movie recommendation model that also considers some of the the contextual information about the user such as their dominant emotion and end
